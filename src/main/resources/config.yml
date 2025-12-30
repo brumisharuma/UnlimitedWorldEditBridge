@@ -1,0 +1,7 @@
+# UnlimitedWorldEditBridge Config
+
+# Optimization settings for large operations
+# Maximum blocks to process in a single tick
+blocks-per-tick: 1000
+# Delay between batches in ticks (1 tick = 0.05s)
+batch-delay: 1
